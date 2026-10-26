@@ -1,1 +1,1 @@
-# go-app
+# my-go-app
